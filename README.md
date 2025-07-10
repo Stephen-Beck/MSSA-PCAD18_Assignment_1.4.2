@@ -1,0 +1,1 @@
+Write a class: “Student” with one private field and the rest public properties: StudentId ( int), StudentFname (string), StudentLname (string ), StudentGrade ( char ). Instantiate the class and assign data to properties. Display the data back on console.
